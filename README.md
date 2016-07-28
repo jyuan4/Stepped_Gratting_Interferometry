@@ -1,5 +1,5 @@
 ### Stepped_Gratting_Interferometry
-Stepped_Grating_Forminifera.nb
+Stepped_Grating_Forminifera.py
 29 July 2014
 
 Sixteen stepped positions with a period of 10.
